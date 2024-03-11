@@ -1,14 +1,26 @@
-# University
+# Muneeb Lone [University]
 
-Welcome to my repository for university assignments and projects! This repository contains a collection of coding assignments, projects, and coursework completed during my time at FAST NUCES. Feel free to explore the code, review my solutions, and provide feedback or suggestions if you find anything interesting.
+This repository stores my assignments for FAST NUCES. 
 
+## Course Folders
 
-## Overview
+Assignments are organized by course folders. Each course folder will contain subfolders for:
 
-This repository serves as a portfolio of my academic work, showcasing my coding skills, problem-solving abilities, and project experience gained throughout my studies at FAST. Each folder within this repository represents a different assignment or project, organized by course or subject area.
+* Assignments
+* Projects
+* Labs (if applicable)
+* Exams (if applicable)
 
+## Contribution Guidelines
 
-## Usage
+This repository is primarily for my personal university work.
 
-Feel free to browse through the code and explore the solutions provided. You can clone this repository to your local machine using the following command:
+## License
 
+Refer to the respective course folders for any specific code licensing information.
+
+## Getting Started
+
+Some assignments might require specific software or libraries. Refer to the assignment instructions for details.
+
+This README file will be updated as needed.
