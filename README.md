@@ -7,7 +7,7 @@ This repository stores my assignments for FAST NUCES.
 Assignments are organized by course folders. Each course folder will contain subfolders for:
 
 * Assignments
-* Projects
+* Projects (if applicable)
 * Labs (if applicable)
 * Exams (if applicable)
 
